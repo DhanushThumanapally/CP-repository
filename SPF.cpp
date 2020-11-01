@@ -86,9 +86,9 @@ int main()
   ll t;
    mainsolve();
   t = 1;
-  //----------
+
   cin >> t;
-  //----------
+
   while (t--)
     peace();
 }
